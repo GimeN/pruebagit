@@ -1,1 +1,1 @@
-Hola soy un documento
+Hola soy un documento en blanco
